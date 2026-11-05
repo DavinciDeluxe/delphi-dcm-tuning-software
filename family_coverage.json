@@ -2,8 +2,16 @@
   "family": "Delphi DCM",
   "slug": "delphi-dcm",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/delphi-dcm-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/delphi-dcm-tuning-software",
+    "https://www.davincideluxe.org/delphi-dcm-tuning-software",
+    "https://www.davincideluxe.app/delphi-dcm-tuning-software",
+    "https://www.davincideluxe.software/delphi-dcm-tuning-software",
+    "https://www.davincideluxe.es/delphi-dcm-tuning-software",
+    "https://www.davincideluxe.de/delphi-dcm-tuning-software",
+    "https://www.davincideluxe.it/delphi-dcm-tuning-software",
+    "https://www.aesoftech.eu/delphi-dcm-tuning-software"
+  ],
   "matched_variants_count": 149,
   "brands": {
     "BMW": [
