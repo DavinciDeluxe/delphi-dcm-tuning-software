@@ -1,0 +1,241 @@
+{
+  "family": "Delphi DCM",
+  "slug": "delphi-dcm",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/delphi-dcm-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 149,
+  "brands": {
+    "BMW": [
+      "DCM3.5",
+      "DCM3.7"
+    ],
+    "MINI": [
+      "DCM3.7"
+    ],
+    "FIAT": [
+      "DCM3.5"
+    ],
+    "FORD": [
+      "DCM1.2",
+      "DCM1.X",
+      "DCM3.2",
+      "DCM3.5",
+      "DCM3.5CAN",
+      "DCM6.1"
+    ],
+    "HYUNDAI": [
+      "DCM1.2",
+      "DCM3.2",
+      "DCM3.7",
+      "DCM6.2"
+    ],
+    "KIA": [
+      "DCM1.2",
+      "DCM3.2",
+      "DCM3.7",
+      "DCM3.7AP",
+      "DCM6.2"
+    ],
+    "JAC": [
+      "DCM6.2",
+      "DCM6.2 AP",
+      "DCM6.2A"
+    ],
+    "JAGUAR": [
+      "DCM3.1",
+      "DCM3.4"
+    ],
+    "MERCEDES-BENZ": [
+      "DCM3 MB",
+      "DCM3.1",
+      "DCM3.2",
+      "DCM3.4",
+      "DCM3.5",
+      "DCM3.X",
+      "DCM6.2"
+    ],
+    "SMART": [
+      "DCM3 MB",
+      "DCM3.1",
+      "DCM3.2",
+      "DCM3.4",
+      "DCM3.5",
+      "DCM3.X",
+      "DCM6.2"
+    ],
+    "MAYBACH": [
+      "DCM3 MB",
+      "DCM3.1",
+      "DCM3.2",
+      "DCM3.4",
+      "DCM3.5",
+      "DCM3.X",
+      "DCM6.2"
+    ],
+    "OPEL": [
+      "DCM3",
+      "DCM3.7",
+      "DCM7.1",
+      "DCM7.1A"
+    ],
+    "CHEVROLET": [
+      "DCM3",
+      "DCM3.7",
+      "DCM3.7AP",
+      "DCM7.1"
+    ],
+    "VAUXHALL": [
+      "DCM3",
+      "DCM3.7",
+      "DCM7.1"
+    ],
+    "PEUGEOT": [
+      "DCM3.4",
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2A",
+      "DCM6.2C",
+      "DCM7",
+      "DCM7.1",
+      "DCM7.1A"
+    ],
+    "CITROËN": [
+      "DCM3.4",
+      "DCM3.4PSA",
+      "DCM3.5",
+      "DCM6.2",
+      "DCM6.2C",
+      "DCM7",
+      "DCM7.1",
+      "DCM7.1A",
+      "DCM7.1B",
+      "DCM7.1F"
+    ],
+    "DS": [
+      "DCM3.4",
+      "DCM3.5",
+      "DCM6.2",
+      "DCM6.2C",
+      "DCM7",
+      "DCM7.1",
+      "DCM7.1A"
+    ],
+    "RENAULT": [
+      "DCM3.2",
+      "DCM3.4",
+      "DCM3.7",
+      "DDCR -DCM1.2"
+    ],
+    "DACIA": [
+      "DCM3.4",
+      "DDCR -DCM1.2"
+    ],
+    "NISSAN": [
+      "DCM3.4",
+      "DDCR -DCM1.2"
+    ],
+    "INFINITI": [
+      "DCM3.4",
+      "DDCR -DCM1.2"
+    ],
+    "ALPINE": [
+      "DCM3.4",
+      "DDCR -DCM1.2"
+    ],
+    "SSANGYONG": [
+      "DCM3.1",
+      "DCM3.2",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2 AP",
+      "DCM6.X"
+    ],
+    "SUZUKI": [
+      "DCM1.2"
+    ],
+    "TOYOTA": [
+      "DCM3.5",
+      "DCM6.2",
+      "DCM7.1",
+      "DCM7.1A"
+    ],
+    "LEXUS": [
+      "DCM6.2",
+      "DCM7.1"
+    ],
+    "VOLKSWAGEN": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V",
+      "DCM6.2VMPC5674F"
+    ],
+    "AUDI": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V",
+      "DCMW"
+    ],
+    "SEAT": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V"
+    ],
+    "SKODA": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V"
+    ],
+    "CUPRA": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V"
+    ],
+    "PORSCHE": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V"
+    ],
+    "LAMBORGHINI": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V"
+    ],
+    "BENTLEY": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V"
+    ],
+    "TATA": [
+      "DCM3.2",
+      "DCM3.7AP"
+    ],
+    "GREAT WALL": [
+      "DCM3.7"
+    ],
+    "HOLDEN": [
+      "DCM3.7"
+    ],
+    "UNKNOWNBRAND": [
+      "DCM6.2"
+    ],
+    "DAF": [
+      "DCM1"
+    ],
+    "JCB": [
+      "DCM3.3"
+    ],
+    "MASSEY FERGUSON": [
+      "DCM3.7"
+    ]
+  }
+}
