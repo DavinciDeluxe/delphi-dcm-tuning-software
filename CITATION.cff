@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Delphi DCM ECU Calibration Software — Common-Rail diesel family (DCM3.4, DCM3.5, DCM3.7, DCM6.2A/C/V, DCM7.1A/B) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/delphi-dcm-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/delphi-dcm-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
