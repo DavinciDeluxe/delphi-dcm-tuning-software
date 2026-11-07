@@ -1,10 +1,10 @@
-# Delphi DCM ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Delphi DCM ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Delphi%20DCM-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/delphi-dcm-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/delphi-dcm-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/delphi-dcm-tuning-software)
 
-**Delphi DCM** is common-rail diesel ECU family (DCM3.4, DCM3.5, DCM3.7, DCM6.2A/C/V, DCM7.1A/B across PSA, VAG, Renault, Ford, Hyundai). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Delphi DCM readouts**.
+**Delphi DCM** is common-rail diesel ECU family (DCM3.4, DCM3.5, DCM3.7, DCM6.2A/C/V, DCM7.1A/B across PSA, VAG, Renault, Ford, Hyundai). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Delphi DCM readouts**.
 
 ## 📊 Live Delphi DCM Variants Covered Across Brands
 
