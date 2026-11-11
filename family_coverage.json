@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/delphi-dcm-tuning-software",
     "https://www.aesoftech.eu/delphi-dcm-tuning-software"
   ],
-  "matched_variants_count": 148,
+  "matched_variants_count": 149,
   "brands": {
     "BMW": [
       "DCM3.5",
@@ -241,6 +241,9 @@
     ],
     "MASSEY FERGUSON": [
       "DCM3.7"
+    ],
+    "VOLKSWAGEN TRUCKS": [
+      "DCM6.2V"
     ]
   }
 }
