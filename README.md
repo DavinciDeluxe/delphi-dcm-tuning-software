@@ -24,7 +24,7 @@
 | **HYUNDAI** | 4 | `DCM1.2`, `DCM3.2`, `DCM3.7`, `DCM6.2` |
 | **OPEL** | 4 | `DCM3`, `DCM3.7`, `DCM7.1`, `DCM7.1A` |
 | **CHEVROLET** | 4 | `DCM3`, `DCM3.7`, `DCM3.7AP`, `DCM7.1` |
-| **RENAULT** | 4 | `DCM3.2`, `DCM3.4`, `DCM3.7`, `DDCR -DCM1.2` |
+| **RENAULT** | 4 | `DCM3.2`, `DCM3.4`, `DCM3.7`, `DDCR_-DCM1.2` |
 | **TOYOTA** | 4 | `DCM3.5`, `DCM6.2`, `DCM7.1`, `DCM7.1A` |
 | **SEAT** | 4 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V` |
 | **SKODA** | 4 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V` |
@@ -36,10 +36,10 @@
 | **VAUXHALL** | 3 | `DCM3`, `DCM3.7`, `DCM7.1` |
 | **BMW** | 2 | `DCM3.5`, `DCM3.7` |
 | **JAGUAR** | 2 | `DCM3.1`, `DCM3.4` |
-| **DACIA** | 2 | `DCM3.4`, `DDCR -DCM1.2` |
-| **NISSAN** | 2 | `DCM3.4`, `DDCR -DCM1.2` |
-| **INFINITI** | 2 | `DCM3.4`, `DDCR -DCM1.2` |
-| **ALPINE** | 2 | `DCM3.4`, `DDCR -DCM1.2` |
+| **DACIA** | 2 | `DCM3.4`, `DDCR-DCM1.2` |
+| **NISSAN** | 2 | `DCM3.4`, `DDCR-DCM1.2` |
+| **INFINITI** | 2 | `DCM3.4`, `DDCR-DCM1.2` |
+| **ALPINE** | 2 | `DCM3.4`, `DDCR-DCM1.2` |
 
 👉 **[Open the full Delphi DCM guide & test your file free at https://www.davincideluxe.fr/delphi-dcm-tuning-software →](https://www.davincideluxe.fr/delphi-dcm-tuning-software)**
 
