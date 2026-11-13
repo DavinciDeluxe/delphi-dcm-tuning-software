@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/delphi-dcm-tuning-software",
     "https://www.aesoftech.eu/delphi-dcm-tuning-software"
   ],
-  "matched_variants_count": 148,
+  "matched_variants_count": 166,
   "brands": {
     "BMW": [
       "DCM3.5",
@@ -22,7 +22,8 @@
       "DCM3.7"
     ],
     "FIAT": [
-      "DCM3.5"
+      "DCM3.5",
+      "DCM7.1B"
     ],
     "FORD": [
       "DCM1.2",
@@ -53,6 +54,9 @@
     "JAGUAR": [
       "DCM3.1",
       "DCM3.4"
+    ],
+    "MAZDA": [
+      "DCMC"
     ],
     "MERCEDES-BENZ": [
       "DCM3 MB",
@@ -91,12 +95,14 @@
       "DCM3",
       "DCM3.7",
       "DCM3.7AP",
-      "DCM7.1"
+      "DCM7.1",
+      "DCM7.1A"
     ],
     "VAUXHALL": [
       "DCM3",
       "DCM3.7",
-      "DCM7.1"
+      "DCM7.1",
+      "DCM7.1A"
     ],
     "PEUGEOT": [
       "DCM3.4",
@@ -178,50 +184,64 @@
       "DCM3.7",
       "DCM6.2",
       "DCM6.2V",
-      "DCM6.2VMPC5674F"
+      "DCM6.2VMPC5674F",
+      "DCMW"
     ],
     "AUDI": [
       "DCM3.5",
       "DCM3.7",
       "DCM6.2",
       "DCM6.2V",
+      "DCM6.2VMPC5674F",
       "DCMW"
     ],
     "SEAT": [
       "DCM3.5",
       "DCM3.7",
       "DCM6.2",
-      "DCM6.2V"
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
     ],
     "SKODA": [
       "DCM3.5",
       "DCM3.7",
       "DCM6.2",
-      "DCM6.2V"
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
     ],
     "CUPRA": [
       "DCM3.5",
       "DCM3.7",
       "DCM6.2",
-      "DCM6.2V"
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
     ],
     "PORSCHE": [
       "DCM3.5",
       "DCM3.7",
       "DCM6.2",
-      "DCM6.2V"
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
     ],
     "LAMBORGHINI": [
       "DCM3.5",
       "DCM3.7",
       "DCM6.2",
-      "DCM6.2V"
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
     ],
     "BENTLEY": [
       "DCM3.5",
       "DCM3.7",
       "DCM6.2",
-      "DCM6.2V"
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
     ],
     "TATA": [
       "DCM3.2",
