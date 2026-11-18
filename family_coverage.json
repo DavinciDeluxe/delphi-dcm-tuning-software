@@ -256,11 +256,11 @@
     "DAF": [
       "DCM1"
     ],
-    "JCB": [
-      "DCM3.3"
-    ],
     "MASSEY FERGUSON": [
       "DCM3.7"
+    ],
+    "JCB": [
+      "DCM3.3"
     ]
   }
 }
