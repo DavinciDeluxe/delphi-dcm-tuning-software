@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/delphi-dcm-tuning-software",
     "https://www.aesoftech.eu/delphi-dcm-tuning-software"
   ],
-  "matched_variants_count": 166,
+  "matched_variants_count": 168,
   "brands": {
     "BMW": [
       "DCM3.5",
@@ -261,6 +261,12 @@
     ],
     "JCB": [
       "DCM3.3"
+    ],
+    "BOBCAT": [
+      "DCM3.7"
+    ],
+    "DOOSAN": [
+      "DCM3.7"
     ]
   }
 }
