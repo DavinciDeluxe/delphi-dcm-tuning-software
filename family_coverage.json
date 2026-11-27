@@ -14,12 +14,103 @@
   ],
   "matched_variants_count": 168,
   "brands": {
+    "PEUGEOT": [
+      "DCM3.4",
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2A",
+      "DCM6.2C",
+      "DCM7",
+      "DCM7.1",
+      "DCM7.1A"
+    ],
+    "AUDI": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
+    ],
+    "OPEL": [
+      "DCM3",
+      "DCM3.7",
+      "DCM7.1",
+      "DCM7.1A"
+    ],
     "BMW": [
       "DCM3.5",
       "DCM3.7"
     ],
     "MINI": [
       "DCM3.7"
+    ],
+    "BENTLEY": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
+    ],
+    "CHEVROLET": [
+      "DCM3",
+      "DCM3.7",
+      "DCM3.7AP",
+      "DCM7.1",
+      "DCM7.1A"
+    ],
+    "CITROËN": [
+      "DCM3.4",
+      "DCM3.4PSA",
+      "DCM3.5",
+      "DCM6.2",
+      "DCM6.2C",
+      "DCM7",
+      "DCM7.1",
+      "DCM7.1A",
+      "DCM7.1B",
+      "DCM7.1F"
+    ],
+    "GREAT WALL": [
+      "DCM3.7"
+    ],
+    "CUPRA": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
+    ],
+    "DACIA": [
+      "DCM3.4",
+      "DDCR-DCM1.2"
+    ],
+    "VAUXHALL": [
+      "DCM3",
+      "DCM3.7",
+      "DCM7.1",
+      "DCM7.1A"
+    ],
+    "DS": [
+      "DCM3.4",
+      "DCM3.5",
+      "DCM6.2",
+      "DCM6.2C",
+      "DCM7",
+      "DCM7.1",
+      "DCM7.1A"
+    ],
+    "MERCEDES-BENZ": [
+      "DCM3 MB",
+      "DCM3.1",
+      "DCM3.2",
+      "DCM3.4",
+      "DCM3.5",
+      "DCM3.X",
+      "DCM6.2"
     ],
     "FIAT": [
       "DCM3.5",
@@ -39,12 +130,19 @@
       "DCM3.7",
       "DCM6.2"
     ],
+    "HOLDEN": [
+      "DCM3.7"
+    ],
     "KIA": [
       "DCM1.2",
       "DCM3.2",
       "DCM3.7",
       "DCM3.7AP",
       "DCM6.2"
+    ],
+    "INFINITI": [
+      "DCM3.4",
+      "DDCR-DCM1.2"
     ],
     "JAC": [
       "DCM6.2",
@@ -55,17 +153,20 @@
       "DCM3.1",
       "DCM3.4"
     ],
+    "LAMBORGHINI": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
+    ],
+    "LEXUS": [
+      "DCM6.2",
+      "DCM7.1"
+    ],
     "MAZDA": [
       "DCMC"
-    ],
-    "MERCEDES-BENZ": [
-      "DCM3 MB",
-      "DCM3.1",
-      "DCM3.2",
-      "DCM3.4",
-      "DCM3.5",
-      "DCM3.X",
-      "DCM6.2"
     ],
     "SMART": [
       "DCM3 MB",
@@ -85,56 +186,17 @@
       "DCM3.X",
       "DCM6.2"
     ],
-    "OPEL": [
-      "DCM3",
-      "DCM3.7",
-      "DCM7.1",
-      "DCM7.1A"
-    ],
-    "CHEVROLET": [
-      "DCM3",
-      "DCM3.7",
-      "DCM3.7AP",
-      "DCM7.1",
-      "DCM7.1A"
-    ],
-    "VAUXHALL": [
-      "DCM3",
-      "DCM3.7",
-      "DCM7.1",
-      "DCM7.1A"
-    ],
-    "PEUGEOT": [
+    "NISSAN": [
       "DCM3.4",
+      "DDCR-DCM1.2"
+    ],
+    "PORSCHE": [
       "DCM3.5",
       "DCM3.7",
       "DCM6.2",
-      "DCM6.2A",
-      "DCM6.2C",
-      "DCM7",
-      "DCM7.1",
-      "DCM7.1A"
-    ],
-    "CITROËN": [
-      "DCM3.4",
-      "DCM3.4PSA",
-      "DCM3.5",
-      "DCM6.2",
-      "DCM6.2C",
-      "DCM7",
-      "DCM7.1",
-      "DCM7.1A",
-      "DCM7.1B",
-      "DCM7.1F"
-    ],
-    "DS": [
-      "DCM3.4",
-      "DCM3.5",
-      "DCM6.2",
-      "DCM6.2C",
-      "DCM7",
-      "DCM7.1",
-      "DCM7.1A"
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
     ],
     "RENAULT": [
       "DCM3.2",
@@ -142,21 +204,25 @@
       "DCM3.7",
       "DDCR_-DCM1.2"
     ],
-    "DACIA": [
-      "DCM3.4",
-      "DDCR-DCM1.2"
-    ],
-    "NISSAN": [
-      "DCM3.4",
-      "DDCR-DCM1.2"
-    ],
-    "INFINITI": [
-      "DCM3.4",
-      "DDCR-DCM1.2"
-    ],
     "ALPINE": [
       "DCM3.4",
       "DDCR-DCM1.2"
+    ],
+    "SEAT": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
+    ],
+    "SKODA": [
+      "DCM3.5",
+      "DCM3.7",
+      "DCM6.2",
+      "DCM6.2V",
+      "DCM6.2VMPC5674F",
+      "DCMW"
     ],
     "SSANGYONG": [
       "DCM3.1",
@@ -175,9 +241,9 @@
       "DCM7.1",
       "DCM7.1A"
     ],
-    "LEXUS": [
-      "DCM6.2",
-      "DCM7.1"
+    "TATA": [
+      "DCM3.2",
+      "DCM3.7AP"
     ],
     "VOLKSWAGEN": [
       "DCM3.5",
@@ -187,85 +253,19 @@
       "DCM6.2VMPC5674F",
       "DCMW"
     ],
-    "AUDI": [
-      "DCM3.5",
-      "DCM3.7",
-      "DCM6.2",
-      "DCM6.2V",
-      "DCM6.2VMPC5674F",
-      "DCMW"
-    ],
-    "SEAT": [
-      "DCM3.5",
-      "DCM3.7",
-      "DCM6.2",
-      "DCM6.2V",
-      "DCM6.2VMPC5674F",
-      "DCMW"
-    ],
-    "SKODA": [
-      "DCM3.5",
-      "DCM3.7",
-      "DCM6.2",
-      "DCM6.2V",
-      "DCM6.2VMPC5674F",
-      "DCMW"
-    ],
-    "CUPRA": [
-      "DCM3.5",
-      "DCM3.7",
-      "DCM6.2",
-      "DCM6.2V",
-      "DCM6.2VMPC5674F",
-      "DCMW"
-    ],
-    "PORSCHE": [
-      "DCM3.5",
-      "DCM3.7",
-      "DCM6.2",
-      "DCM6.2V",
-      "DCM6.2VMPC5674F",
-      "DCMW"
-    ],
-    "LAMBORGHINI": [
-      "DCM3.5",
-      "DCM3.7",
-      "DCM6.2",
-      "DCM6.2V",
-      "DCM6.2VMPC5674F",
-      "DCMW"
-    ],
-    "BENTLEY": [
-      "DCM3.5",
-      "DCM3.7",
-      "DCM6.2",
-      "DCM6.2V",
-      "DCM6.2VMPC5674F",
-      "DCMW"
-    ],
-    "TATA": [
-      "DCM3.2",
-      "DCM3.7AP"
-    ],
-    "GREAT WALL": [
-      "DCM3.7"
-    ],
-    "HOLDEN": [
+    "BOBCAT": [
       "DCM3.7"
     ],
     "DAF": [
       "DCM1"
     ],
-    "MASSEY FERGUSON": [
+    "DOOSAN": [
       "DCM3.7"
     ],
     "JCB": [
       "DCM3.3"
     ],
-    "BOBCAT": [
-      "DCM3.7"
-    ],
-    "DOOSAN": [
+    "MASSEY FERGUSON": [
       "DCM3.7"
     ]
   }
