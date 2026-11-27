@@ -12,34 +12,34 @@
 | :--- | :---: | :--- |
 | **CITROËN** | 10 | `DCM3.4`, `DCM3.4PSA`, `DCM3.5`, `DCM6.2`, `DCM6.2C`, `DCM7`, `DCM7.1`, `DCM7.1A` … |
 | **PEUGEOT** | 9 | `DCM3.4`, `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2A`, `DCM6.2C`, `DCM7`, `DCM7.1` … |
+| **DS** | 7 | `DCM3.4`, `DCM3.5`, `DCM6.2`, `DCM6.2C`, `DCM7`, `DCM7.1`, `DCM7.1A` |
 | **MERCEDES-BENZ** | 7 | `DCM3 MB`, `DCM3.1`, `DCM3.2`, `DCM3.4`, `DCM3.5`, `DCM3.X`, `DCM6.2` |
 | **SMART** | 7 | `DCM3 MB`, `DCM3.1`, `DCM3.2`, `DCM3.4`, `DCM3.5`, `DCM3.X`, `DCM6.2` |
 | **MAYBACH** | 7 | `DCM3 MB`, `DCM3.1`, `DCM3.2`, `DCM3.4`, `DCM3.5`, `DCM3.X`, `DCM6.2` |
-| **DS** | 7 | `DCM3.4`, `DCM3.5`, `DCM6.2`, `DCM6.2C`, `DCM7`, `DCM7.1`, `DCM7.1A` |
-| **FORD** | 6 | `DCM1.2`, `DCM1.X`, `DCM3.2`, `DCM3.5`, `DCM3.5CAN`, `DCM6.1` |
-| **SSANGYONG** | 6 | `DCM3.1`, `DCM3.2`, `DCM3.7`, `DCM6.2`, `DCM6.2 AP`, `DCM6.X` |
-| **VOLKSWAGEN** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
 | **AUDI** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
+| **BENTLEY** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
+| **CUPRA** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
+| **FORD** | 6 | `DCM1.2`, `DCM1.X`, `DCM3.2`, `DCM3.5`, `DCM3.5CAN`, `DCM6.1` |
+| **LAMBORGHINI** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
+| **PORSCHE** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
 | **SEAT** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
 | **SKODA** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
-| **CUPRA** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
-| **PORSCHE** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
-| **LAMBORGHINI** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
-| **BENTLEY** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
-| **KIA** | 5 | `DCM1.2`, `DCM3.2`, `DCM3.7`, `DCM3.7AP`, `DCM6.2` |
+| **SSANGYONG** | 6 | `DCM3.1`, `DCM3.2`, `DCM3.7`, `DCM6.2`, `DCM6.2 AP`, `DCM6.X` |
+| **VOLKSWAGEN** | 6 | `DCM3.5`, `DCM3.7`, `DCM6.2`, `DCM6.2V`, `DCM6.2VMPC5674F`, `DCMW` |
 | **CHEVROLET** | 5 | `DCM3`, `DCM3.7`, `DCM3.7AP`, `DCM7.1`, `DCM7.1A` |
-| **HYUNDAI** | 4 | `DCM1.2`, `DCM3.2`, `DCM3.7`, `DCM6.2` |
+| **KIA** | 5 | `DCM1.2`, `DCM3.2`, `DCM3.7`, `DCM3.7AP`, `DCM6.2` |
 | **OPEL** | 4 | `DCM3`, `DCM3.7`, `DCM7.1`, `DCM7.1A` |
 | **VAUXHALL** | 4 | `DCM3`, `DCM3.7`, `DCM7.1`, `DCM7.1A` |
+| **HYUNDAI** | 4 | `DCM1.2`, `DCM3.2`, `DCM3.7`, `DCM6.2` |
 | **RENAULT** | 4 | `DCM3.2`, `DCM3.4`, `DCM3.7`, `DDCR_-DCM1.2` |
 | **TOYOTA** | 4 | `DCM3.5`, `DCM6.2`, `DCM7.1`, `DCM7.1A` |
 | **JAC** | 3 | `DCM6.2`, `DCM6.2 AP`, `DCM6.2A` |
 | **BMW** | 2 | `DCM3.5`, `DCM3.7` |
-| **FIAT** | 2 | `DCM3.5`, `DCM7.1B` |
-| **JAGUAR** | 2 | `DCM3.1`, `DCM3.4` |
 | **DACIA** | 2 | `DCM3.4`, `DDCR-DCM1.2` |
-| **NISSAN** | 2 | `DCM3.4`, `DDCR-DCM1.2` |
+| **FIAT** | 2 | `DCM3.5`, `DCM7.1B` |
 | **INFINITI** | 2 | `DCM3.4`, `DDCR-DCM1.2` |
+| **JAGUAR** | 2 | `DCM3.1`, `DCM3.4` |
+| **LEXUS** | 2 | `DCM6.2`, `DCM7.1` |
 
 👉 **[Open the full Delphi DCM guide & test your file free at https://www.davincideluxe.fr/delphi-dcm-tuning-software →](https://www.davincideluxe.fr/delphi-dcm-tuning-software)**
 
