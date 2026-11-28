@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/delphi-dcm-tuning-software",
     "https://www.aesoftech.eu/delphi-dcm-tuning-software"
   ],
-  "matched_variants_count": 168,
+  "matched_variants_count": 169,
   "brands": {
     "PEUGEOT": [
       "DCM3.4",
@@ -185,6 +185,9 @@
       "DCM3.5",
       "DCM3.X",
       "DCM6.2"
+    ],
+    "MAHINDRA": [
+      "DCM2.5"
     ],
     "NISSAN": [
       "DCM3.4",
